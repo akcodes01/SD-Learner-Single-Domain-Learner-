@@ -26,19 +26,16 @@
 
 # 📌 Research Status
 
-Welcome to the official research repository for **SD-Learner (Single Domain Learner)**.
+Welcome to the research repository for **SD-Learner (Single Domain Learner)**.
 
-This repository serves as a **research portfolio** showcasing selected outcomes of an ongoing research project in **Few-Shot Biomedical Graph Classification**.
 
-The repository has been created to present the overall research journey, including conceptual illustrations, methodology, experimental visualizations, and project updates, while preserving the originality of the unpublished research.
+This repository presents the architecture, methodology, and summarized experimental results of SD-Learner, a hybrid Graph Neural Network integrated with Meta Learning designed for few shot graph classification in biomedical graphs.
 
 > **Publication Notice**
 >
-> The associated manuscript is currently undergoing **peer review**.
->
-> To maintain the integrity of the publication process, the repository intentionally excludes the complete manuscript, source code, implementation details, mathematical formulations, training configurations, reproducibility materials, and other technical content that will accompany the official publication.
->
-> Following successful publication, this repository will be expanded with comprehensive documentation, implementation resources, and publication details.
+> The accompanying manuscript has not yet been formally published. Therefore, the complete implementation, trained models, and manuscript are intentionally withheld until completion of the publication process.
+
+
 
 ---
 
