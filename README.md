@@ -17,7 +17,7 @@
 
 ### Research Repository
 
-**Architecture • Research Methodology • Experimental Results • Publication Updates**
+**Architecture • Research Methodology • Experimental Results**
 
 </div>
 
