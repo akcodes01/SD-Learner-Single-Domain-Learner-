@@ -41,7 +41,7 @@ SD-Learner (Single Domain Learner) is a research framework developed to investig
 
 The project explores the application of **Graph Neural Networks (GNNs)** together with **Meta-Learning** strategies to improve graph classification performance in scenarios where only a limited number of labeled training samples are available.
 
-Rather than serving as an implementation repository, this repository has been designed as the official research portfolio for SD-Learner, documenting the project's progress, methodology, visual research assets, and experimental outcomes while protecting unpublished intellectual contributions.
+The framework is specifically designed to improve **few shot learning** in bio-medical graphs. By integrating MLP-based local feature aggregation, Attention-Based local and global feature aggregation and Meta Learning strategies, SD-Learner aims to produce more robust Graph representations while improving classification performance on target domain.
 
 ---
 
