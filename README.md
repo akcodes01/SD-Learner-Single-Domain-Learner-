@@ -9,7 +9,7 @@
 ![Research](https://img.shields.io/badge/Research-Graph%20Neural%20Networks-0A66C2)
 ![Meta Learning](https://img.shields.io/badge/Meta-Learning-success)
 ![Few-Shot Learning](https://img.shields.io/badge/Few--Shot%20Learning-blue)
-![Biomedical AI](https://img.shields.io/badge/Domain-Biomedical%20Graph%20Learning-red)
+![Biomedical AI](https://img.shields.io/badge/Domain-Biomedical%20Few-Shot%20Graph%20Learning-red)
 ![Repository](https://img.shields.io/badge/Repository-Research%20Showcase-black)
 
 ---
