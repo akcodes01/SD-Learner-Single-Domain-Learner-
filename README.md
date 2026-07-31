@@ -28,9 +28,7 @@ This repository presents the **architecture, research methodology, and selected 
 
 > **Note**
 >
-> The accompanying manuscript is **currently under peer review**.
->
-> Therefore, the complete implementation, source code, trained models, mathematical formulations, experimental protocols, and the full manuscript are intentionally withheld until the publication process has been completed.
+> The accompanying manuscript has **not yet been formally published**. Therefore, the complete implementation, trained models, and manuscript are intentionally withheld until completion of the publication process.
 
 ---
 
