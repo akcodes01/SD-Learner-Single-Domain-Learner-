@@ -10,7 +10,6 @@
 ![Meta Learning](https://img.shields.io/badge/Meta-Learning-success)
 ![Few-Shot Learning](https://img.shields.io/badge/Few--Shot-Learning-blue)
 ![Biomedical AI](https://img.shields.io/badge/Biomedical-Graph%20Learning-red)
-![Status](https://img.shields.io/badge/Status-Under%20Review-yellow)
 ![Repository](https://img.shields.io/badge/Repository-Official%20Research%20Repository-black)
 
 ---
