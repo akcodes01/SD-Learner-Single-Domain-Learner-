@@ -12,7 +12,6 @@
 ![Meta Learning](https://img.shields.io/badge/Meta-Learning-blue)
 ![Biomedical AI](https://img.shields.io/badge/Domain-Biomedical%20AI-red)
 ![Repository](https://img.shields.io/badge/Repository-Research%20Portfolio-black)
-![Status](https://img.shields.io/badge/Status-Manuscript%20Show%20case-yellow)
 
 ---
 
