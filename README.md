@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Banner (2).png" width="100%" alt="SD-Learner Banner">
+<img src="Banner (2).png" width="100%" alt="SD-Learner Banner">
 
 # SD-Learner
 
