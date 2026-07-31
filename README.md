@@ -16,7 +16,7 @@
 
 ### Official Research Repository
 
-**Research Methodology • Proposed Framework • Experimental Evaluation • Publication Updates**
+**Research Methodology • Proposed Framework • Experimental Evaluation**
 
 </div>
 
