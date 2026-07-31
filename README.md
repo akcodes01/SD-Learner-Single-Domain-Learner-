@@ -47,7 +47,7 @@ The framework is specifically designed to improve **few shot learning** in bio-m
 
 # 🎯 Research Objectives
 
-The SD-Learner project investigates modern learning strategies for graph-based biomedical applications with emphasis on:
+The SD-Learner project investigates modern learning strategies for graph-based biomedical applications and proposed a novel GNN-Based model (SD-Learner) for few shot learning in biomedical graph with emphasis on:
 
 - Few-Shot Learning
 - Meta-Learning
