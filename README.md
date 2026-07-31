@@ -26,26 +26,11 @@
 
 Welcome to the official repository of **SD-Learner (Single Domain Learner)**.
 
-This repository has been established to present selected research assets developed during the SD-Learner project while the accompanying manuscript progresses through the academic publication process.
+This repository presents the **architecture, methodology, and summarized experimental results** of **SG-XNet**, a hybrid Graph Neural Network designed for transfer learning in node classification.
 
-The repository currently includes visual representations of the research methodology, the proposed framework, experimental evaluations, and supporting figures developed throughout the research.
+> **Note**
+> The accompanying manuscript has **not yet been formally published**. Therefore, the complete implementation, trained models, and manuscript are intentionally withheld until completion of the publication process.
 
-> **Publication Notice**
->
-> The manuscript associated with **SD-Learner** is currently **under peer review**.
->
-> To preserve the originality and integrity of the research during the publication process, this repository intentionally excludes:
->
-> - Complete manuscript
-> - Source code
-> - Model implementation
-> - Training scripts
-> - Mathematical formulations
-> - Hyperparameter configurations
-> - Detailed experimental protocols
-> - Reproducibility resources
->
-> These materials will be released after the manuscript has been officially published.
 
 ---
 
